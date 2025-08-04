@@ -1,5 +1,6 @@
 # THIS IS MY ROCK PAPER SCISSORS GAME
 # this is the "app/rps.py" file...
+# code was cloned from repository while catching up
 
 import random
 
