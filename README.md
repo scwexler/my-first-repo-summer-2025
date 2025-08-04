@@ -1,5 +1,5 @@
 # my-first-repo-summer-2025
-
+# repo cloned while catching up
 ## Setup
 
 Create and activate a virtual environment:

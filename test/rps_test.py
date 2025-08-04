@@ -1,4 +1,4 @@
-# this is the "test/rps_test.py" file...
+# this is the "test/rps_test.py" file
 
 from app.rps import determine_winner
 
