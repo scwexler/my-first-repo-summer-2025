@@ -1,7 +1,7 @@
 # New File
 
-Some contents here!
-
-Here is an edit.
+making some edits
 
 Here is an edit made on my feature branch.
+
+
